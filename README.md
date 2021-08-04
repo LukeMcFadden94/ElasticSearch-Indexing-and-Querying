@@ -1,5 +1,4 @@
 # ElasticSearch Indexing and Querying
-# ElasticSearch Indexing and Querying
 Made by Luke McFadden
 
 **What it does & requirements to run**
